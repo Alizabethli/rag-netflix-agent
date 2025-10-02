@@ -1,0 +1,15 @@
+# macOS metadata
+.DS_Store
+
+# IDE settings
+.idea/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Local environment files
+backend/.env
+
+# Docker artifacts
+*.log
